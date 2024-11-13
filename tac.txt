@@ -1,3 +1,0 @@
-MOV R0, A
-MOV R0, B
-MOV t1, R0
